@@ -1,0 +1,100 @@
+:root{
+    --MainColor:#9A3C3C;
+    --color-secondary:yellow;
+    --space:15px;
+}
+
+.navbar{
+    background-color: var(--MainColor) !important;
+    .navbar-brand{
+        img{
+            height: 60px;
+        }
+    }
+    .active{
+        color: var(--color-secondary) !important;
+    }
+    
+}
+
+.card{
+    margin-bottom: var(--space) !important;
+    img{
+        border-radius: 10px 10px 0 0;
+    }
+ 
+}
+
+.footer{
+    background-color: var(--MainColor) !important;
+    color: var(--color-secondary);
+    padding: var(--space 0);
+    img{
+        width: 300px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
